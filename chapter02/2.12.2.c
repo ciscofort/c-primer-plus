@@ -5,6 +5,6 @@ int main(void)
 	printf("My name is Fating Chen.\n");
 	printf("My address is XXXXXXXX.\n");
 	
-	getchar();
+	getch();
 	return 0;
 }

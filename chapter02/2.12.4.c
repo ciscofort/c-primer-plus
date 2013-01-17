@@ -9,7 +9,7 @@ int main(void)
 	print1();
 	print2();
 	
-	getchar();
+	getch();
 	return 0;
 }
 

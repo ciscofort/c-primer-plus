@@ -8,7 +8,7 @@ int main(void)
 	one_three();
 	printf("done!\n");
 	
-	getchar();
+	getch();
 	return 0;
 }
 

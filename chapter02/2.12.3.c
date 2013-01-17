@@ -5,6 +5,6 @@ int main(void)
 	int age = 27;
 	printf("Convert %d years to %d days.\n", age, age * 365);
 	
-	getchar();
+	getch();
 	return 0;
 }

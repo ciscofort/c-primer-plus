@@ -8,6 +8,6 @@ int main(void)
 	printf("The sum of toes and toes is %d.\n", toes + toes);
 	printf("The square of toes is %d.\n", toes * toes);
 	
-	getchar();
+	getch();
 	return 0;
 }

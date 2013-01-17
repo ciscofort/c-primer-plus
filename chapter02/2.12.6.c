@@ -13,7 +13,7 @@ int main(void)
 	smile();
 	printf("\n");
 	
-	getchar();
+	getch();
 	return 0;
 }
 

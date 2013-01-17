@@ -11,6 +11,6 @@ int main(void)
 	printf("Doing it wrong: ");
 	printf("%d minus %d is %d\n", ten);
 	
-	getchar();
+	getch();
 	return 0;
 }

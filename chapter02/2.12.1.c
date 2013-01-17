@@ -7,6 +7,6 @@ int main(void)
 	printf("Fating ");
 	printf("Chen");
 	
-	getchar();
+	getch();
 	return 0;
 }
